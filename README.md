@@ -1,8 +1,5 @@
 # Contents
 
-## Course
- * [NTHU Algorithm Courses](AlgorithmCourse)
-
 ## LeetcodePractice
 
 ### Easy
@@ -173,3 +170,6 @@
 
 ### 2019
   * Qualification Round: [QR](CodeJam/2019_QR)
+
+## Basic
+   * [NTHU Algorithm Course Homework](AlgorithmCourse)
