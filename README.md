@@ -159,7 +159,7 @@
  * [PG Biased Dice](UVa/PG_Biased_Dice.cpp)
 
 ## France IOI
- * [Choisir son manteau - 2 approach: Sorting, SegmentTree](ChoisirSonManteau.md)
+ * [Choisir son manteau - 2 approach: Sorting, SegmentTree](UVa/ChoisirSonManteau.md)
 
 ## CodeJam
 
