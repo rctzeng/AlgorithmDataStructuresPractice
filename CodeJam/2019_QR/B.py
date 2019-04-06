@@ -1,3 +1,5 @@
+"""
+# 1st REAttempt
 G, N = {}, None
 def DFS(x, y, path):
     if x==N-1 and y==N-1: # termination
@@ -29,4 +31,18 @@ for t in range(1,T+1):
             G[x+y*N] = nx+ny*N
             x, y = nx, ny
     ans = DFS(0, 0, '')
+    print('Case #{}: {}'.format(t, ans))
+"""
+
+"""
+Reflect to the diagonal line
+"""
+T = int(input())
+for t in range(1,T+1):
+    N = int(input())
+    P = input()
+    ans = ""
+    for p in P:
+        if p=='E': ans += 'S'
+        elif p=='S': ans += 'E'
     print('Case #{}: {}'.format(t, ans))
