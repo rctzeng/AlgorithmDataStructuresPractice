@@ -112,7 +112,6 @@
  * [3182. Tian Ji The Horse Racing](UVa/3182_Tian_Ji_The_Horse_Racing.c)
  * [3183. Wooden Sticks](UVa/3183_Wooden_Sticks.c)
  * [3184. Copying Books](UVa/3184_Copying_Books.c)
- * [3185. Radar Installation](UVa/3185_Radar_Installation.c)
  * [3186. Brackets sequence](UVa/3186_Brackets_sequence.c)
  * [3187. Dollars](UVa/3187_Dollars.c)
  * [3188. Longest Match](UVa/3188_Longest_Match.c)
