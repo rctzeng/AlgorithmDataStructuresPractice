@@ -100,7 +100,7 @@
  * [3109. Adding Reversed Numbers](UVa/3109_Adding_Reversed_Numbers.c)
  * [3110. Blue Jeans](UVa/3110_Blue_Jeans.c)
  * [3111 Oulipo](UVa/3111_Oulipo.c)
- * [3112. Very Easy !!!](UVa/3112_Very_Easy !!!.c)
+ * [3112. Very Easy !!!](UVa/3112_Very_Easy.c)
  * [3113. Exponentiation](UVa/3113_Exponentiation.c)
  * [3114. If We Were a Child Again](UVa/3114_If_We_Were_a_Child_Again.c), [simpler solution](UVa/3114_If_We_Were_a_Child_Again_simple.c)
  * [3116. Power Strings](UVa/3116_Power_Strings.c), [faster solution](UVa/3116_Power_Strings_fast.c)
