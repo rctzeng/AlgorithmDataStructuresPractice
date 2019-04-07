@@ -82,6 +82,7 @@
  * [488. Zuma Game](https://leetcode.com/problems/zuma-game/) - [1 approach: DFS](Leetcode/ZumaGame_488.py)
  * [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) - [1 approach: TreeTraversal](Leetcode/SerializeDeserializeNaryTree_428.py)
  * [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) - [1 approach: DFS](Leetcode/MinimizeMalwareSpread_924.py)
+ * [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) - [1 attempt: Trie](Leetcode/PrefixSuffixSearch_745.py)
 
 ## UVa Online Judge
  * [100. 3N+1 Problem](UVa/100_The_3n+1_Problem.c)
